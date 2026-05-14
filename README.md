@@ -83,12 +83,14 @@ Then recommends:
 ---
 
 # 🖼 Screenshots
+Landing Page - 
+<img width="1919" height="935" alt="image" src="https://github.com/user-attachments/assets/f8e448cc-135a-4e82-9e24-8632694b18d9" />
 
-> Replace these placeholders with actual screenshots after deployment.
+Quiz Experience - 
+<img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/be0cc6d0-4e1b-4ce2-843c-16c8d3d402f5" />
 
-| Landing Page                   | Quiz Experience             | AI Results                     |
-| ------------------------------ | --------------------------- | ------------------------------ |
-| `docs/screenshots/landing.png` | `docs/screenshots/quiz.png` | `docs/screenshots/results.png` |
+AI Results - 
+<img width="1918" height="932" alt="image" src="https://github.com/user-attachments/assets/5259832f-48a8-41b2-9b9b-ea87162e790a" />
 
 ---
 
